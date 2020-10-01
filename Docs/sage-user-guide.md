@@ -1,7 +1,7 @@
 
 # Sage Users Guide
 
-[Intro](sage-intro.mdx)
+[Intro](Intro.md)
 
 [Application Modernization Overview](sage-cloud-app-mod-overview.md)
 
