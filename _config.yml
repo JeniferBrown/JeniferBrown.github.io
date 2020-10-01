@@ -20,3 +20,5 @@ description: A page where I can try some stuff out
 favicon: Image/favicon.ico
 uselogo: true
 logo: favicon.png
+
+theme: jekyll-theme-slate
