@@ -135,7 +135,7 @@ Survey answers need to be as accurate as possible.  Seek out the assistance of y
 
 |Survey Question| Possible Answers |Question Details or Examples|
 |---------------|----------------|----------------|
-|What is the system type|<li>Legacy System</li><li>Cloud System 2</li>|<li>Non-Cloud Based System</li><li>Cloud Based System</li>  |
+|What is the system type|Legacy System Cloud System 2|<li>Non-Cloud Based System</li><li>Cloud Based System</li>  |
 |What is the architechture of the system?|<li>Web System (3-Tier)</li><li>Thick Client System</li><li>Mainframe System</li>|  |
 |What is the data impact level of this system?|<li>IL-2</li><li>IL-4</li><li>IL-5</li><li>IL-6</li><li>IL-7</li>|<li>PUBLIC</li><li>CUI or Non-CUI</li><li>Higer Sensitivity CUI</li><li>SECRET</li><li>TOP SECRET</li>|
 |What type of primary interface is associated with this system?|<li>HTTPS Based</li><li>Non-HTTPS Based</li>|<li>Rest</li><li>UDP, TCP, etc</li>|
