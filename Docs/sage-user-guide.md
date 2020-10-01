@@ -87,11 +87,7 @@ Now, you can follow these easy steps to complete your application onboarding:
 
 *Screenshot here*
 
-:warning: **If you are using mobile browser**: Be very careful here!
-
-:::important
-Zipped up source code files cannot exceed 500MB.  If your application source code is larger than 500MB, it will need to be split apart and zipped up into logical blocks that are smaller than 500MB and then you will need to follow the entire onboarding process for each zip file.
-:::
+:warning: Zipped up source code files cannot exceed 500MB.  If your application source code is larger than 500MB, it will need to be split apart and zipped up into logical blocks that are smaller than 500MB and then you will need to follow the entire onboarding process for each zip file.
 
 6. Select the Upload Artifacts Icon if you have any artifacts to include
 
