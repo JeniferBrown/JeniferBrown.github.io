@@ -135,25 +135,25 @@ Survey answers need to be as accurate as possible.  Seek out the assistance of y
 
 |Survey Question| Possible Answers |Question Details or Examples|
 |---------------|----------------|----------------|
-|What is the system type|Legacy System<br>Cloud System 2|<li>Non-Cloud Based System</li><li>Cloud Based System</li>  |
-|What is the architechture of the system?|<li>Web System (3-Tier)</li><li>Thick Client System</li><li>Mainframe System</li>|  |
-|What is the data impact level of this system?|<li>IL-2</li><li>IL-4</li><li>IL-5</li><li>IL-6</li><li>IL-7</li>|<li>PUBLIC</li><li>CUI or Non-CUI</li><li>Higer Sensitivity CUI</li><li>SECRET</li><li>TOP SECRET</li>|
-|What type of primary interface is associated with this system?|<li>HTTPS Based</li><li>Non-HTTPS Based</li>|<li>Rest</li><li>UDP, TCP, etc</li>|
+|What is the system type|Legacy System<br>Cloud System|Non-Cloud Based System<br>Cloud Based System  |
+|What is the architechture of the system?|Web System (3-Tier)<br>Thick Client System<br>Mainframe System|  |
+|What is the data impact level of this system?|IL-2<br>IL-4<br>IL-5<br>IL-6<br>IL-7|PUBLIC<br>CUI or Non-CUI<br>Higer Sensitivity CUI<br>SECRET<br>TOP SECRET|
+|What type of primary interface is associated with this system?|HTTPS Based<br>Non-HTTPS Based<br>Rest<br>UDP, TCP, etc|
 |How many primary interfaces are associated with this system?|0-20|Number of primary interfaces |
-|What type of secondary interface is associated with this system?|<li>HTTPS Based</li><li>Non-HTTPS Based</li>|<li>Rest</li><li>UDP, TCP, etc</li>|
+|What type of secondary interface is associated with this system?|HTTPS Based<br>Non-HTTPS Based<br>Rest<br>UDP, TCP, etc|
 |How many secondary interfaces are associated with this system?|0-20|Number of secondary interfaces |
-|What is the primary database type for this system?|<li>Niche</li><li>Available Paas</li><li>No Database</li>| |
+|What is the primary database type for this system?|Niche<br>Available Paas<br>No Database| |
 |How many primary databases are associated with this system?|0-20| |
-|What primary database components are usedfor this system?|<li>DB Links</li><li>Stored Procs</li><li>Both</li><li>None</li>| |
-|What is the secondary database type for this system?|<li>Niche</li><li>Available Paas</li><li>No Database</li>| |
+|What primary database components are usedfor this system?|DB Links<br>Stored Procs<br>Both<br>None| |
+|What is the secondary database type for this system?|Niche<br>Available Paas<br>No Database| |
 |How many secondary databases are associated with this system?|0-20| |
-|What secondary database components are usedfor this system?|<li>DB Links</li><li>Stored Procs</li><li>Both</li><li>None</li>| |
-|Does this system use CAC for authentication?|<li>Yes</li><li>No</li>| |
-|What user token does the system use?|<li>SAML</li><li>JWT</li><li>Other</li>|<li>Security Assertions Markup Language</li><li>JSON Web Token</li><li>Anything else</li>|
-|Does the system use Shared Filesystems or Shared Caching?|<li>Yes</li><li>No</li>| |
-|Does this system use messaging based products?|<li>Yes</li><li>No</li>|MQSeries, Apache Kafka, MuleSoft Anypoint Platform, RabbitMQ, and Apache ActiveMQ or others|
-|Does this system have a need for real-time data syncronization?|<li>Yes</li><li>No</li>| |
-|Does this system have use of Propietary Tools/ETL/BI/COTS products?|<li>Yes</li><li>No</li>| |
+|What secondary database components are usedfor this system?|DB Links<br>Stored Procs<br>Both<br>None| |
+|Does this system use CAC for authentication?|Yes<br>No| |
+|What user token does the system use?|SAML<br>JWT<br>Other|Security Assertions Markup Language<br>JSON Web Token<br>Anything else|
+|Does the system use Shared Filesystems or Shared Caching?|Yes<br>No| |
+|Does this system use messaging based products?|Yes<br>No|MQSeries, Apache Kafka, MuleSoft Anypoint Platform, RabbitMQ, and Apache ActiveMQ or others|
+|Does this system have a need for real-time data syncronization?|Yes<br>No| |
+|Does this system have use of Propietary Tools/ETL/BI/COTS products?|Yes<br>No| |
 
 
 ## Migration Metric and Data
