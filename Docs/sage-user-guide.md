@@ -1,7 +1,7 @@
 
 Sage Users Guide
 
-## Introduction
+# Introduction
 
 The Sage product will save you time and money by proving reports that will detail the effort needed to upgrade and modernize your application to run in the Cloud.
 
@@ -9,29 +9,29 @@ Using the Sage product, you will simply onboard your application, set up roles, 
 
 The purpose of this guide is to help get you up and running with Sage today.  This users guide will provide you with step by step instructions to set up your account, onboard your application, handle your configurations and analyze your Sage provided reports. And of course, if you have any issues don't hesitate to contact our support team at *some support info here*.
 
-## Sage Cloud App Modernization
+# Sage Cloud App Modernization
 
 This is a space for Sage Cloud App Modernization - best practices information
 
 **_Roger to provide diagram and words here_**
 
-## Getting Started
+# Getting Started
 
 Let's get started using Sage!
 
-### System Requirements
+## System Requirements
 
 - Browser requirements??
 - Some installation completed for backend??
 - Soure code and artifacts available to machine running UI 
 
-### Security Consideratons
+## Security Consideratons
 
 *SSP support for your organizations security requirements*
 
-### First Time Login
+## First Time Login
 
-#### Create Account
+### Create Account
 
 Register for your account and create a password in KeyCloak.
 *Sample images of KeyCloak account screen with details of use*
@@ -45,7 +45,7 @@ Play the video to see a calculator add 2+2 *This is just an example video*
 </video>
 
 
-#### Security and Password Management
+### Security and Password Management
 
 Passwords for Sage must follow the below criteria:
 
