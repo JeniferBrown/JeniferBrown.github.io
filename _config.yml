@@ -1,24 +1,6 @@
-// theme: jekyll-theme-leap-day
-"themeConfig": {
-    "navbar": {
-      "title": "My Site",
-      "logo": {
-        "alt": "My Site Logo",
-        "src": "imgage/favicon.png"
-      },
-      "items": [
-        {
-          "to": "docs/",
-          "activeBasePath": "docs",
-          "label": "Docs",
-          "position": "left"
-        }
-    }
-}
+theme: jekyll-theme-slate
 title: Jenifer Brown's Try It Out Page
 description: A page where I can try some stuff out
 favicon: Image/favicon.ico
 uselogo: true
 logo: favicon.png
-
-theme: jekyll-theme-slate
