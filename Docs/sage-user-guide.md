@@ -11,7 +11,7 @@ The purpose of this guide is to help get you up and running with Sage today.  Th
 
 ## Sage Cloud App Modernization
 
-This is a space for Sage Cloud App Modernization 
+This is a space for Sage Cloud App Modernization - best practices information
 
 **_Roger to provide diagram and words here_**
 
@@ -19,34 +19,25 @@ This is a space for Sage Cloud App Modernization
 
 Let's get started using Sage!
 
-### Technical Requirements
+### System Requirements
 
-- Some PC/Mac requirements for running using??
+- Browser requirements??
 - Some installation completed for backend??
-- Some browser requirements?? 
 - Soure code and artifacts available to machine running UI 
 
-### New User Setup
+### Security Consideratons
 
-There are two user roles for Sage, the administrator and the user.
+*SSP support for your organizations security requirements*
 
-#### Roles and Access
+### First Time Login
 
-- The Sage_Admin role is for administrators or owners of the application. This role can:
-    - Onboard applications
-    - Upload Source Code 
-    - Upload application artifacts
-    - View reports
-    - Set up user permissions
-- The Sage_User role is for general users. This role can perform the following:
-    - Assist with onboarding activities like uploading soruce code
-    - Upload applications artifacts
-    - View reports for analysis
+#### Create Account
 
+Register for your account and create a password in KeyCloak.
+*Sample images of KeyCloak account screen with details of use*
 
-#### First Time Login
-
-When you purchase Sage, you will receive an administrator username and password that will be used to login for the first time.
+Administrators will log in and perform all role assignments for registered users.
+*Sample images of Administrators steps to assign roles*
 
 Play the video to see a calculator add 2+2 *This is just an example video*
 <video width="320" height="240" controls>
@@ -54,20 +45,10 @@ Play the video to see a calculator add 2+2 *This is just an example video*
 </video>
 
 
-*sample image of whatever they will get* 
-
-When you access Sage for the first time, you will need to register for an account.  This user account will be assigned a default role as a new user pending review of your administrator.  Once your user account is created, the administrator will then log in to KeyCloak and assign the appropriate role to your user.
-
-##### Create Account
-Register for your account and create a password in KeyCloak.
-*Sample images of KeyCloak account screen with details of use*
-
-Administrators will log in and perform all role assignments for registered users.
-*Sample images of Administrators steps to assign roles*
-
-##### Security and Password Management
+#### Security and Password Management
 
 Passwords for Sage must follow the below criteria:
+
 - Have a minimum length of 8 characters
 - Must contain at least one alphabetic character
 - Must contain at least one upper case character
