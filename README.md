@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Intro](Docs/Intro.md)
+[Sage Users Guide](Docs/sage-user-guide.md)
 
 You can use the [editor on GitHub](https://github.com/JeniferBrown/JeniferBrown.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
