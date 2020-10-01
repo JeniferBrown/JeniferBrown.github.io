@@ -40,7 +40,7 @@ When you purchase Sage, you will receive an administrator username and password 
 
 Play the video to see a calculator add 2+2 *This is just an example video*
 <video width="320" height="240" controls>
-  <source src="../../static/img/sage/calculator.mp4" type="video/mp4"></source>
+  <source src="../Image/calculator.mp4" type="video/mp4"></source>
 </video>
 
 
