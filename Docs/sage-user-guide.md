@@ -135,21 +135,21 @@ Survey answers need to be as accurate as possible.  Seek out the assistance of y
 
 |Survey Question| Possible Answers |Question Details or Examples|
 |---------------|----------------|----------------|
-|What is the system type|Legacy System<br>Cloud System|Non-Cloud Based System<br>Cloud Based System  |
-|What is the architechture of the system?|Web System (3-Tier)<br>Thick Client System<br>Mainframe System|  |
+|What is the system type|1. Legacy System<br>2. Cloud System|1. Non-Cloud Based System<br>2. Cloud Based System  |
+|What is the architechture of the system?|Web System (3-Tier)<br>1. Thick Client System<br>2. Mainframe System|  |
 |What is the data impact level of this system?|IL-2<br>IL-4<br>IL-5<br>IL-6<br>IL-7|PUBLIC<br>CUI or Non-CUI<br>Higer Sensitivity CUI<br>SECRET<br>TOP SECRET|
-|What type of primary interface is associated with this system?|HTTPS Based<br>Non-HTTPS Based<br>Rest<br>UDP, TCP, etc|
+|What type of primary interface is associated with this system?|1. HTTPS Based<br>2. Non-HTTPS Based<br>3. Rest<br>4. UDP, TCP, etc|
 |How many primary interfaces are associated with this system?|0-20|Number of primary interfaces |
-|What type of secondary interface is associated with this system?|HTTPS Based<br>Non-HTTPS Based<br>Rest<br>UDP, TCP, etc|
+|What type of secondary interface is associated with this system?|1. HTTPS Based<br>2. Non-HTTPS Based<br>3. Rest<br>4. UDP, TCP, etc|
 |How many secondary interfaces are associated with this system?|0-20|Number of secondary interfaces |
-|What is the primary database type for this system?|Niche<br>Available Paas<br>No Database| |
+|What is the primary database type for this system?|1. Niche<br>2. Available Paas<br>3. No Database| |
 |How many primary databases are associated with this system?|0-20| |
-|What primary database components are usedfor this system?|DB Links<br>Stored Procs<br>Both<br>None| |
-|What is the secondary database type for this system?|Niche<br>Available Paas<br>No Database| |
+|What primary database components are usedfor this system?|1. DB Links<br>2. Stored Procs<br>3. Both<br>4. None| |
+|What is the secondary database type for this system?|1. Niche<br>2. Available Paas<br>3. No Database| |
 |How many secondary databases are associated with this system?|0-20| |
-|What secondary database components are usedfor this system?|DB Links<br>Stored Procs<br>Both<br>None| |
+|What secondary database components are usedfor this system?|1. DB Links<br>2. Stored Procs<br>3. Both<br>4. None| |
 |Does this system use CAC for authentication?|Yes<br>No| |
-|What user token does the system use?|SAML<br>JWT<br>Other|Security Assertions Markup Language<br>JSON Web Token<br>Anything else|
+|What user token does the system use?|1. SAML<br>2. JWT<br>3. Other|1. Security Assertions Markup Language<br>2. JSON Web Token<br>3. Anything else|
 |Does the system use Shared Filesystems or Shared Caching?|Yes<br>No| |
 |Does this system use messaging based products?|Yes<br>No|MQSeries, Apache Kafka, MuleSoft Anypoint Platform, RabbitMQ, and Apache ActiveMQ or others|
 |Does this system have a need for real-time data syncronization?|Yes<br>No| |
